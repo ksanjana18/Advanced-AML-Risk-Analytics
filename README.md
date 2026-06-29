@@ -1,6 +1,4 @@
-Absolutely! Here's a **modern, professional, and attractive GitHub README** with badges, emojis, tables, feature cards, and a polished layout that makes your repository stand out.
 
-````md
 <div align="center">
 
 # 🛡️ Advanced AML Risk Analytics Dashboard
